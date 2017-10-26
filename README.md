@@ -20,3 +20,15 @@ Front page of the web app
 New staff members can add by using below form
 
 ![](https://github.com/daskon/staff_management_app/blob/master/Picture2.jpg)
+
+Department wise staff details track 
+
+![](https://github.com/daskon/staff_management_app/blob/master/Picture3.jpg)
+
+Employees checkin time can be track by using the below  
+
+![](https://github.com/daskon/staff_management_app/blob/master/Picture4.jpg)
+
+Database design 
+
+![](https://github.com/daskon/staff_management_app/blob/master/Picture5.jpg)
